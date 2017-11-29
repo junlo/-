@@ -1,0 +1,40 @@
+PC:
+ 帐号 root(管理员)
+ 密码 root
+ ----------
+ 帐号 lgq(用户)
+ 密码 root
+
+163工作邮箱:
+ 帐号 liguiqin_aj@163.com
+ 密码 abc123
+
+ISSP平台:
+ 帐号 IKE002450
+ 密码 liguiqin123
+
+gitlab:
+ 帐号 liguiqin
+ 密码 liguiqin123
+
+163Email SMTP服务器:
+ 帐号 zhzyb_aj@163.com
+ 密码 ikee111
+
+portainer部署模块:
+	1号机: 	assemble 模块关联
+	2号机:	user 用户模块
+	3号机:	message 消息模块
+	161号机: task 进度同步模块
+	kafka:	kafka 卡夫卡服务
+	storage: storage 存储模块
+
+资料路径: /home/lgq/soft : 包含 ide,jdk kafka,maven,gradle等安装包
+         /home/lgq/github: 包含开发的所有项目
+	 /home/gitlab: 包含打包部署的所有模块
+	 /home/lgq/docker.sh docker启动命令
+	 /home/lgq : 除了github,gitlab 其他文件夹大部分包含docker映射目录,比如mysql,zookeeper,及idea工作环境
+	
+
+
+
